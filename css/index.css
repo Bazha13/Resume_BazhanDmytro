@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Montserrat&display=swap');
+
+.conteiner {
+    max-width: 1200px;
+    max-height: 1319px;
+}
+.skills {
+    max-width: 370px;
+    background-color: rgba(30, 41, 57, 1);
+    justify-content: left;
+}
+
+.img__conteiner {
+    width: 370;
+    height: 354;
+}
+img {
+    width: 100%;
+}
+.contacts__title, .tech__title, .soft__title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    font-size: 22px;
+    color: rgba(255, 255, 255, 1);
+}
+.contacts {
+    width: 185px;
+    height: 85px;
+    margin: 0px 40px;
+}
+.fone__numder {
+    font-family: 'Montserrat', sans-serif;  
+    font-weight: bold;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 1);
+}
+.email__adress {
+    font-family: 'Montserrat', sans-serif;  
+    font-weight: 400;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.5);
+    text-decoration: underline;
+}
+.tech__skills {
+    width: 121px;
+    height: 203px;
+    margin: 50px 40px;
+}
+.tech__skills-list, .soft__skill-list {
+    padding-left: 20px;
+}
+.tech__skills-item {
+    font-family: 'Montserrat', sans-serif;  
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgba(255, 255, 255, 1);
+}
+
+.soft__skill {
+    width: 113px;
+    height: 131;
+    margin: 0px 40px;
+}
+.soft__skill-item {
+    font-family: 'Montserrat', sans-serif;  
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgba(255, 255, 255, 1);
+}
